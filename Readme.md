@@ -78,10 +78,6 @@ AI/ Deep learning-based image processing for detecting the activity of the drive
 4.Classification:
 Fuzzy classifier to classify the driver’s state by scaling drowsiness, distraction, yawn, eye closure, and joy in real-time based on the threshold values. </br>
 
-# Usage:
-```
-git clone https://github.com/prasad-kumkar/ai-driver-safety.git
-```
 Download models, haarcascade files and shape predictor file and put it in main folder.
 Install required libraries:
 - opencv-python
